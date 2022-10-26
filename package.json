@@ -41,7 +41,7 @@
     "android"
   ],
   "repository": "https://github.com/vulpemventures/react-native-secp256k1-zkp",
-  "author": "Vulpem Ventures team <3596602+tiero@users.noreply.github.com> (https://github.com/vulpemventures/react-native-secp256k1-zkp)",
+  "author": "Vulpem Ventures team",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vulpemventures/react-native-secp256k1-zkp/issues"
